@@ -17,7 +17,7 @@ Then the program will show you the contents of the memory segments you requested
 * running: ./memshow
 
 ##### ITALIANO #####
-Del codice per visualizzare il contenuto di alcune celle di memoria.
+Codice per visualizzare il contenuto di alcune celle di memoria.
 Dovrebbe funzionare solamente con la memoria allocata dal programma stesso.
 Per motivi di sicurezza non ti dovrebbe permettere di avere accesso alla memoria allocata da altri processi.
 Puoi modificare il codice se vuoi e allocare una nuova area di memoria e visualizzarla.
