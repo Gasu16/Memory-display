@@ -32,3 +32,4 @@ Infine il programma ti mostrerà come output il contenuto di questi segmenti di 
 * compilazione: gcc memshow.c -o memshow
 * esecuzione: ./memshow
 
+![](githubPROJ.gif)
